@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HR-Payroll/static/css/main.b45778d7.css",
+    "main.js": "/HR-Payroll/static/js/main.9b81be39.js",
+    "static/media/greeting-organization.d2f52e5c.svg": "/HR-Payroll/static/media/greeting-organization.d2f52e5c.f582a270a4971b2978988d4904436043.svg",
+    "static/media/egyCodesBlack.png": "/HR-Payroll/static/media/egyCodesBlack.bcf73e9d30fcde389565.png",
+    "static/media/egyCodes.png": "/HR-Payroll/static/media/egyCodes.a3e054aa6d48867cf8b4.png",
+    "index.html": "/HR-Payroll/index.html",
+    "main.b45778d7.css.map": "/HR-Payroll/static/css/main.b45778d7.css.map",
+    "main.9b81be39.js.map": "/HR-Payroll/static/js/main.9b81be39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45778d7.css",
+    "static/js/main.9b81be39.js"
+  ]
+}
