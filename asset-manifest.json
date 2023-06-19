@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.3f27e01d.css",
-    "main.js": "/static/js/main.83500a84.js",
+    "main.js": "/static/js/main.3cb84e7d.js",
     "static/media/greeting-organization.d2f52e5c.svg": "/static/media/greeting-organization.d2f52e5c.f582a270a4971b2978988d4904436043.svg",
     "static/media/egyCodesBlack.png": "/static/media/egyCodesBlack.bcf73e9d30fcde389565.png",
     "static/media/egyCodes.png": "/static/media/egyCodes.a3e054aa6d48867cf8b4.png",
     "index.html": "/index.html",
     "main.3f27e01d.css.map": "/static/css/main.3f27e01d.css.map",
-    "main.83500a84.js.map": "/static/js/main.83500a84.js.map"
+    "main.3cb84e7d.js.map": "/static/js/main.3cb84e7d.js.map"
   },
   "entrypoints": [
     "static/css/main.3f27e01d.css",
-    "static/js/main.83500a84.js"
+    "static/js/main.3cb84e7d.js"
   ]
 }
